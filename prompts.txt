@@ -1,0 +1,30 @@
+Hello chatGPT, in my academy, we were tasked to build a landing page for an online take-away Nigerian cooked meal restaurant called MamaPutOnline.
+
+MamaPutOnline sells different types of cooked soups - egusi, ewedu, ora, edikaikong, okazi, ogbono and okro. It also sells jollof rice, fried rice, porridge yam, porridge beans, fried plantain, abacha, nkwobi, fried chicken, kpomo etc.
+
+Let the landing page have the following:
+1. Header: 
+
+MamaPutOnline logo on the top left hand corner.
+A nav bar in dark red and or blue with sub titles like Products, Services, Customer Service, Contact Us.
+A search window on the very top right hand corner.
+
+2. Hero section:
+Below the menu bar section, let there be a hero section with a Call-To-Action button.
+The hero section should occupy at least 30% of the vertical length of the page and 100% of the breathe of the page.
+The hero section should be vertically partitioned into two -
+One side should display the picture of a steaming, deliciously-cooked Nigerian dish / soup (with the right aspect ratio and with the right pixelization). The other side of the hero section should have boldly-written words in large print, lettering inviting people to not miss the opportunity to buy from your online store.
+
+3. Main Section:
+This section should have a side panel on the left with items listed there and connecting users to the main section / product cards.
+It should also have at least three rows on the right side of the side panel...with each row have at least 4 product cards.
+The product cards should identify the product boldly, the quantity and the price in Naira.
+
+4. Footer:
+Let the landing page also have a footer that has all the social media links.
+
+
+Build this page using HTML and CSS.
+
+
+i was curious and loaded all the prompts in one execution..  the vibe engineering took longer than i thought because i was too careful not to break something while doing that,  but chatgpt is awesome! 

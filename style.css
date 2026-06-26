@@ -30,6 +30,10 @@ body{
     color:#8b0000;
 }
 
+.logo span{
+    color:black
+}
+
 .search-box{
     display:flex;
 }
