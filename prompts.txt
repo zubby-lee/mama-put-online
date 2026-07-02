@@ -27,4 +27,4 @@ Let the landing page also have a footer that has all the social media links.
 Build this page using HTML and CSS.
 
 
-i was curious and loaded all the prompts in one execution..  the vibe engineering took longer than i thought because i was too careful not to break something while doing that,  but chatgpt is awesome! 
+i was curious and loaded all the prompts in one execution..  the vibe engineering took longer than i thought because i was too careful not to break something while doing that. also, after downloading image files and linking each image to it's product card, the layout suddenly became inconsistent and i had to do awhole lot of engineering,  but chatgpt is awesome! 
