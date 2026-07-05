@@ -20,13 +20,6 @@ FOLDER STRUCTURE
  ┗ 📜style.css
 
 
- ┣ 📂images
- ┣ 📜index.html
- ┣ 📜prompts.txt
- ┗ 📜style.css
-
-
-
 **Dewey classification**
 
 1.0 Folder Structure
