@@ -27,4 +27,21 @@ Let the landing page also have a footer that has all the social media links.
 Build this page using HTML and CSS.
 
 
-i was curious and loaded all the prompts in one execution..  the vibe engineering took longer than i thought because i was too careful not to break something while doing that. also, after downloading image files and linking each image to it's product card, the layout suddenly became inconsistent and i had to do awhole lot of engineering,  but chatgpt is awesome! 
+i was curious and loaded all the prompts in one execution..  the vibe engineering took longer than i thought because i was too careful not to break something while doing that. also, after downloading image files and linking each image to it's product card, the layout suddenly became inconsistent and i had to do awhole lot of engineering,  but chatgpt is awesome!
+
+
+Second Prompts:
+
+hello chatgpt, back to our mamaputonline project, i love it and i have developed it further to match my idea but i did a little research about the features contained in the landing page of a typical nigerian online restaurant, and i found out that my project did not contain any of these sections on the page:
+
+1. Customer Reviews section for testimonials or ratings to build trust and credibility.
+
+2. Newsletter Signup section for option to subscribe for updates on new meals, offers, or events.
+
+3. Location Map like embedded Google Maps showing the restaurant’s physical location.
+
+chatgpt please insert the three aforementioned sections in the code below and insert them in the order they should be on the html.
+
+i will also need you to build the css file for the html code you have built and make the aside sidebar sticky. thanks!
+
+the products cards do not have an "Order Now" or "Add to Cart" button to each product card. please create me a block of code that i will add to all my products cards to display "Order Now" or "Add to Cart" button. thanks

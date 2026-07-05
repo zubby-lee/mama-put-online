@@ -216,6 +216,38 @@ main{
     padding-left:8px;
 }
 
+/*======================================
+    STICKY SIDEBAR
+======================================*/
+
+.sidebar{
+    position: sticky;
+    top: 120px;
+    align-self: flex-start;
+}
+
+/*======================================
+    COMMON SECTION TITLE
+======================================*/
+
+.section-title{
+    text-align:center;
+    margin-bottom:50px;
+}
+
+.section-title h2{
+    font-size:2.5rem;
+    color:#8B0000;
+    margin-bottom:15px;
+}
+
+.section-title p{
+    max-width:700px;
+    margin:auto;
+    color:#666;
+    line-height:1.7;
+}
+
 /* ===========================
    PRODUCTS
 =========================== */
@@ -271,6 +303,240 @@ main{
     font-size:1.1rem;
     font-weight:700;
     color:#001F54;
+}
+
+/*=========================
+    ORDER BUTTON
+=========================*/
+
+.order-btn{
+
+    display:block;
+    width:calc(100% - 40px);
+    margin:15px auto 20px;
+    padding:12px;
+
+    text-align:center;
+    text-decoration:none;
+
+    background:#8B0000;
+    color:#fff;
+
+    font-weight:600;
+    border-radius:8px;
+
+    transition:.3s ease;
+
+}
+
+.order-btn:hover{
+
+    background:#001F54;
+    transform:translateY(-2px);
+
+}
+
+
+/*======================================
+    CUSTOMER REVIEWS
+======================================*/
+
+.reviews{
+    padding:90px 8%;
+    background:#f9f9f9;
+}
+
+.review-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:30px;
+}
+
+.review-card{
+
+    background:#fff;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+    transition:.35s;
+}
+
+.review-card:hover{
+
+    transform:translateY(-10px);
+    box-shadow:0 20px 35px rgba(0,0,0,.12);
+
+}
+
+.review-header{
+
+    display:flex;
+    align-items:center;
+    gap:18px;
+    margin-bottom:20px;
+
+}
+
+.review-header img{
+
+    width:75px;
+    height:75px;
+    border-radius:50%;
+    object-fit:cover;
+    border:3px solid #8B0000;
+
+}
+
+.review-header h3{
+
+    color:#222;
+    margin-bottom:6px;
+
+}
+
+.stars{
+
+    color:#f4b400;
+    font-size:1.2rem;
+    letter-spacing:2px;
+
+}
+
+.review-card p{
+
+    line-height:1.8;
+    color:#555;
+    font-style:italic;
+
+}
+
+/*======================================
+    NEWSLETTER
+======================================*/
+
+.newsletter{
+
+    background:#8B0000;
+    color:#fff;
+    padding:80px 8%;
+    text-align:center;
+
+}
+
+.newsletter-content{
+
+    max-width:750px;
+    margin:auto;
+
+}
+
+.newsletter h2{
+
+    font-size:2.4rem;
+    margin-bottom:20px;
+
+}
+
+.newsletter p{
+
+    margin-bottom:35px;
+    line-height:1.8;
+
+}
+
+.newsletter-form{
+
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    flex-wrap:wrap;
+
+}
+
+.newsletter-form input{
+
+    width:380px;
+    max-width:100%;
+    padding:16px;
+    border:none;
+    border-radius:8px;
+    outline:none;
+    font-size:1rem;
+
+}
+
+.newsletter-form button{
+
+    padding:16px 35px;
+    border:none;
+    border-radius:8px;
+    background:#001F54;
+    color:white;
+    cursor:pointer;
+    font-weight:600;
+    transition:.3s;
+
+}
+
+.newsletter-form button:hover{
+
+    background:#FFD54F;
+    color:#222;
+
+}
+
+/*======================================
+    LOCATION
+======================================*/
+
+.location{
+
+    padding:90px 8%;
+    background:#fff;
+
+}
+
+.location-container{
+
+    display:grid;
+    grid-template-columns:1fr 2fr;
+    gap:50px;
+    align-items:center;
+
+}
+
+.location-details{
+
+    background:#f7f7f7;
+    padding:35px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+}
+
+.location-details h3{
+
+    color:#8B0000;
+    margin-bottom:20px;
+
+}
+
+.location-details p{
+
+    margin-bottom:18px;
+    line-height:1.8;
+    color:#555;
+
+}
+
+.map iframe{
+
+    width:100%;
+    height:420px;
+    border:none;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+
 }
 
 /* ===========================
@@ -363,6 +629,67 @@ footer h3{
 
     .search-box input{
         width:180px;
+    }
+
+}
+
+
+
+
+
+
+
+/*======================================
+    RESPONSIVE
+======================================*/
+
+@media(max-width:992px){
+
+    .location-container{
+
+        grid-template-columns:1fr;
+
+    }
+
+}
+
+@media(max-width:768px){
+
+    .section-title h2{
+
+        font-size:2rem;
+
+    }
+
+    .newsletter h2{
+
+        font-size:2rem;
+
+    }
+
+    .newsletter-form{
+
+        flex-direction:column;
+
+    }
+
+    .newsletter-form input{
+
+        width:100%;
+
+    }
+
+    .newsletter-form button{
+
+        width:100%;
+
+    }
+
+    .review-header{
+
+        flex-direction:column;
+        text-align:center;
+
     }
 
 }
