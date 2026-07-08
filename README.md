@@ -33,13 +33,13 @@ The root directory contains all project files required to build and run the webs
 The **images** folder stores all image assets used throughout the website, including photographs of Nigerian meals displayed on the landing page.
 
 1.1.2 index.html
-The **index.html** file is the main webpage of the project. It defines the overall structure and content of the MamaPutOnline landing page, including:
+The **index.html** file is the main webpage of the project. It defines the overall structure and content of the MamaPutOnline landing page, whivh includes the header which houses the logo and the search menu, the main body of the page where you have the hero section and the products & services, then the footer which contains all necessary contact inforation about the brand.
 
 1.1.3 style.css
-The **style.css** file contains all Cascading Style Sheets (CSS) used to design the website. It is responsible for:
+The **style.css** file contains all Cascading Style Sheets (CSS) used to design the website. It is responsible for all the beauty and responsiveness of the web page.
 
 1.1.4 prompts.txt
-The **prompts.txt** file contains the AI prompts and design instructions used during the planning and development of the project. It serves as a reference for the requirements, ideas, and implementation guidance used throughout the development process.
+The **prompts.txt** file contains the Ai prompts and design instructions used during the planning and development of the project. It serves as a reference for the requirements, ideas, and implementation guidance used throughout the development process.
 
 1.1.5 README.md
 The **README.md** file provides an overview of the project, including its purpose, technologies used, folder structure, setup instructions, and other important information for anyone viewing or maintaining the project.
