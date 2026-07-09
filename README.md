@@ -1,26 +1,26 @@
 FOLDER STRUCTURE
 
-📦mamaput-online
- ┣ 📂images
- ┃ ┣ 📜abacha.jfif
- ┃ ┣ 📜beans.jfif
- ┃ ┣ 📜edika.jfif
- ┃ ┣ 📜egusi.jfif
- ┃ ┣ 📜fried-rice.jfif
- ┃ ┣ 📜jollof.jfif
- ┃ ┣ 📜kpomo.jfif
- ┃ ┣ 📜nkwobi.jfif
- ┃ ┣ 📜ogbono.jfif
- ┃ ┣ 📜okro.jfif
- ┃ ┣ 📜plantain.jfif
- ┃ ┗ 📜yam.jfif
- ┣ 📜index.html
- ┣ 📜prompts.txt
- ┣ 📜README.md
- ┗ 📜style.css
+📦mamaput-online 
+┣ 📂images 
+┃ ┣ 📜abacha.jfif 
+┃ ┣ 📜beans.jfif 
+┃ ┣ 📜edika.jfif 
+┃ ┣ 📜egusi.jfif 
+┃ ┣ 📜fried-rice.jfif 
+┃ ┣ 📜jollof.jfif 
+┃ ┣ 📜kpomo.jfif 
+┃ ┣ 📜nkwobi.jfif 
+┃ ┣ 📜ogbono.jfif 
+┃ ┣ 📜okro.jfif 
+┃ ┣ 📜plantain.jfif 
+┃ ┗ 📜yam.jfif 
+┣ 📜index.html 
+┣ 📜prompts.txt 
+┣ 📜README.md 
+┗ 📜style.css
 
 
-**Dewey classification**
+**Dewey Decimal Classification**
 
 1.0 Folder Structure
 The MamaPutOnline project is organized into a simple and maintainable directory structure. Each file and folder serves a specific purpose in the development of the website.
