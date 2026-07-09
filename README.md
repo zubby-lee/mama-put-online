@@ -1,24 +1,23 @@
-FOLDER STRUCTURE
+**Folder Structure**
 
-📦mamaput-online 
-┣ 📂images 
-┃ ┣ 📜abacha.jfif 
-┃ ┣ 📜beans.jfif 
-┃ ┣ 📜edika.jfif 
-┃ ┣ 📜egusi.jfif 
-┃ ┣ 📜fried-rice.jfif 
-┃ ┣ 📜jollof.jfif 
-┃ ┣ 📜kpomo.jfif 
-┃ ┣ 📜nkwobi.jfif 
-┃ ┣ 📜ogbono.jfif 
-┃ ┣ 📜okro.jfif 
-┃ ┣ 📜plantain.jfif 
-┃ ┗ 📜yam.jfif 
-┣ 📜index.html 
-┣ 📜prompts.txt 
-┣ 📜README.md 
-┗ 📜style.css
-
+mama-put-online
+- readme.md
+- index.html
+- style.css
+- images
+  - abacha.jfif
+  - beans.jfif
+  - edika.jfif
+  - egusi.jfif
+  - fried-rice.jfif
+  - jollof.jfif
+  - kpomo.jfif
+  - nkwobi.jfif
+  - ogbono.jfif
+  - okro.jfif
+  - plantain.jfif
+  - yam.jfif
+- prompts.txt
 
 **Dewey Decimal Classification**
 
